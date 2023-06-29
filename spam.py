@@ -64,4 +64,4 @@ examples = ['Free Viagra now!!!', "Hi Bob, how about a game of golf tomorrow?"]
 example_counts = vectorizer.transform(examples)
 print(example_counts)
 predictions = classifier.predict(example_counts)
-print(predictions
+print(predictions)
